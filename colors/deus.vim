@@ -498,7 +498,7 @@ hi! link Label deusRed
 hi! link Exception deusRed
 " sizeof, "+", "*", etc.
 "hi! link Operator Normal
-hi Operator ctermfg=74 ctermbg=NONE guifg=#458588 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi Operator ctermfg=74 ctermbg=NONE guifg=#83a598 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 " Any other keyword
 hi! link Keyword deusRed
 
