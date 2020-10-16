@@ -505,8 +505,8 @@ hi! link Keyword deusRed
 " Variable name
 hi! link Identifier deusBlue
 " Function name
-"hi! link Function deusGreenBold
-hi Function ctermfg=74 ctermbg=NONE guifg=#83a598 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi! link Function deusGreen
+"hi Function ctermfg=74 ctermbg=NONE guifg=#83a598 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 
 " Generic preprocessor
 hi! link PreProc deusAqua
