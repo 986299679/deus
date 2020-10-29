@@ -100,7 +100,7 @@ let s:ds.light3      = ['#bdae93', 248]     " 189-174-147
 let s:ds.light4      = ['#a89984', 246]     " 168-153-132
 let s:ds.light4_256  = ['#a89984', 246]     " 168-153-132
 
-let s:ds.bright_red     = ['#d26487', 167]     " 251-73-52
+let s:ds.bright_red     = ['#b48ead', 167]     " 251-73-52
 let s:ds.bright_green   = ['#98C379', 142]     " 184-187-38
 let s:ds.bright_yellow  = ['#fabd2f', 214]     " 250-189-47
 let s:ds.bright_blue    = ['#83a598', 109]     " 131-165-152
